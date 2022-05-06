@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image Info Finder</string>
+    <string name="capture">Capture</string>
+    <string name="get_search_result">Get Search Result</string>
+    <string name="title">Title</string>
+    <string name="snippet">Snippet</string>
+    <string name="description">Description</string>
+</resources>
